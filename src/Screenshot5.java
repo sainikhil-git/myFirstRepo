@@ -2,7 +2,7 @@ import java.io.IOException;
 
 class A{
 	public void m1() throws IOException {
-		System.out.println("from A");
+		System.out.println("from A");a
 	}
 }
 class B extends A{
