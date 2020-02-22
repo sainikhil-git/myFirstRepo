@@ -38,7 +38,7 @@ public class Test1 {
 		Boolean b=true?null:false;
 		System.out.println(b);
 		
-		ArrayList<Long> kll =new ArrayList<Integer>();
+		//ArrayList<Long> kll =new ArrayList<Integer>();
 	}
 
 }
